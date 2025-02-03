@@ -1,8 +1,8 @@
 const steamUser = require('steam-user');
 const steamTotp = require('steam-totp');
 
-var username = 'mrmartyc_on_ttv';
-var password = 'Vondracek071117/4981';
+var username = 'username';
+var password = 'password';
 var shared_secret = '';
 
 var games = [730, 218, 221100];
